@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Victoria!
-- 👀 I’m interested in web development
-- 🌱 I’m currently working on improving my web development skills
+- 🌱 I’m currently working on leveling up my web development skills
 - 📫 Feel free to connect with me on <a href="https://www.linkedin.com/in/vtoriafisher/">LinkedIn</a>!
 
 <!---
